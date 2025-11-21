@@ -3,9 +3,8 @@
 The Essentials (Quick Checklist)
 ​Your computer and accounts are like your house; cyber security is just locking your digital doors. 
 
-​#Top 3 Security Actions
-​Do these three things to dramatically increase your protection:
-​Turn on MFA/2FA: This is the single best step you can take. It adds a second lock (like your phone) so a stolen password (the key) is useless to hackers.  
+​##Top 3 Security Actions:
+​Do these three things to dramatically increase your protection.
 
 ● ​Use Unique Passphrases: Never reuse passwords. Use long, unique phrases like "Purple-Elephant-Pizza-99!". Use a Password Manager to help you.  
 ​Update Everything: Software updates patch "holes" that hackers look for. If it asks to update, click "Yes" immediately. 

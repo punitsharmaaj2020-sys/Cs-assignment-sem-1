@@ -1,4 +1,5 @@
-​# Digital Security:
+# ⚡️ DIGITAL SECURITY: 
+
 
 The Essentials (Quick Checklist)
 ​Your computer and accounts are like your house; cyber security is just locking your digital doors. 
@@ -15,4 +16,6 @@ The Essentials (Quick Checklist)
 ​Malware: Malicious Software that makes your computer sick or steals info.  
 ​Ransomware: Hackers lock your files and demand money.  
 ​
+
+
 THANK YOU 😊 

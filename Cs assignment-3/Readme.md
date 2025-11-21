@@ -1,9 +1,9 @@
-​# Digital Security: 
+​#Digital Security
 
 The Essentials (Quick Checklist)
 ​Your computer and accounts are like your house; cyber security is just locking your digital doors. 
 
-​## Top 3 Security Actions
+​#Top 3 Security Actions
 ​Do these three things to dramatically increase your protection:
 ​Turn on MFA/2FA: This is the single best step you can take. It adds a second lock (like your phone) so a stolen password (the key) is useless to hackers.  
 

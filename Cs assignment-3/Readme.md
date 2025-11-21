@@ -1,5 +1,4 @@
-​#Digital Security
-
+​# Digital Security:
 The Essentials (Quick Checklist)
 ​Your computer and accounts are like your house; cyber security is just locking your digital doors. 
 
